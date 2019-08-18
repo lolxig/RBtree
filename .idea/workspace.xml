@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18777b1b-02ee-48d4-86a6-f09183d6090c" name="Default Changelist" comment="k">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/xig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/xig.xml" afterDir="false" />
+    <list default="true" id="18777b1b-02ee-48d4-86a6-f09183d6090c" name="Default Changelist" comment="红黑树性能统计">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$RBNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree$RBNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rbtree_run/com/xig/rbtree/RBTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/rbtree_run/com/xig/rbtree/createTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/rbtree_run/com/xig/rbtree/createTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resource/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/old.bcp" beforeDir="false" afterPath="$PROJECT_DIR$/resource/old.bcp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/xig/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xig/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xig/rbtree/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xig/rbtree/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/xig/rbtree/createTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/xig/rbtree/createTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="xig &lt;xxig@foxmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PURf9Trignx2aOalqxAXWDW6tz" />
@@ -102,8 +103,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.createTest" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -118,6 +119,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565926788579</updated>
     </task>
+    <task id="LOCAL-00001" summary="红黑树性能统计">
+      <created>1566103012594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566103012594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,15 +140,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/xig/rbtree/RBTree.java</url>
-          <line>114</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="红黑树性能统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="红黑树性能统计" />
   </component>
 </project>
