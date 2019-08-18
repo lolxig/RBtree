@@ -131,7 +131,6 @@ public class RBTree<T extends Comparable<T>> {
 
 		// 3.将它重新修整为一颗红黑树
 		insertFixUp(node);
-
 		return true;
 	}
 

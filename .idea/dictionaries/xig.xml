@@ -2,6 +2,8 @@
   <dictionary name="xig">
     <words>
       <w>gparent</w>
+      <w>norepeat</w>
+      <w>oldmerge</w>
     </words>
   </dictionary>
 </component>
